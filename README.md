@@ -28,7 +28,7 @@ The archive will be downloaded contains:
 
 As input you need pass classic FASTA-file where the first string is description of protein sequence, the others – sequence itself. It’s strongly recommended.
 
-As output you will get classic CSV-file with PWM-scores for each position of protein sequence (except for last one, there you will see “Nan” value) from each protease with PWM. Information about proteases will represent as two columns: MEROPS code and MEROPS name.
+As output you will get classic CSV-file with PWM-scores for each position of protein sequence (except for last one, there you will see `Nan` value) from each protease with PWM. Information about proteases will represent as two columns: MEROPS code and MEROPS name.
 
 # IMPORTANT
 
