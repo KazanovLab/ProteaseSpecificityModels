@@ -38,4 +38,4 @@ The main script, `PWMs` directory, `annotations` directory and input FASTA-file 
 Please use the [GitHub issue tracker](https://github.com/KazanovLab/ProteaseSpecificityModels/issues) to report bugs or suggest features.
 
 # Citing
-
+_to be submitted_
