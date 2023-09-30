@@ -23,8 +23,8 @@ For the correct work of the method, you need to install the following python lib
 The archive will be downloaded contains:
 * The main script to get PWM scores for your sequence
 * The directory `PWMs` with position-weighted matrices for 169 proteases from MEROPS database with 8 and more proteolytic events.
-* The directory 'annotations' with information to correspond MEROPS code to MEROPS name of a protease.
-* The directory “examples” with input and output file examples.
+* The directory `annotations` with information to correspond MEROPS code to MEROPS name of a protease.
+* The directory `examples` with input and output file examples.
 
 As input you need pass classic FASTA-file where the first string is description of protein sequence, the others – sequence itself. It’s strongly recommended.
 
@@ -32,10 +32,10 @@ As output you will get classic CSV-file with PWM-scores for each position of pro
 
 # IMPORTANT
 
-The main script, “PWMs” directory, “annotations” directory and input FASTA-file must be located in the same directory. The output file will be generated also here.
+The main script, `PWMs` directory, `annotations` directory and input FASTA-file must be located in the same directory. The output file will be generated also here.
 
 # Reporting Bugs and Feature Requests
-Please use the [GitHub issue tracker](ссылка!) to report bugs or suggest features.
+Please use the [GitHub issue tracker](https://github.com/KazanovLab/ProteaseSpecificityModels/issues) to report bugs or suggest features.
 
 # Citing
 
