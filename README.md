@@ -5,10 +5,10 @@ Here is method for calculating scores of proteolytic susceptibility by position-
 # Dependencies
 
 For the correct work of the method, you need to install the following python libraries:
-	•	glob
-	•	os
-	•	pandas
-	•	numpy
+* glob
+* os
+* pandas
+* numpy
 
 # Quick start
 
