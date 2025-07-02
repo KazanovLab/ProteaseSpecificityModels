@@ -1,0 +1,859 @@
+Ensembl_protein_ID,Extracellular space,Cytoplasm,Plasma membrane,Lysosome,Endosome,Golgi apparatus,MEROPS_code,MEROPS_name
+ENSP00000280527,1,0,1,0,0,0,I15.UNW,family I15 unassigned peptidase inhibitor homologues
+ENSP00000271532,1,0,1,0,0,0,I43.UPW,family I43 unassigned peptidase inhibitors
+ENSP00000348307,1,0,1,0,0,0,I43.UPW,family I43 unassigned peptidase inhibitors
+ENSP00000352671,1,0,1,0,0,0,I43.UPW,family I43 unassigned peptidase inhibitors
+ENSP00000375622,1,0,1,0,0,0,I43.UPW,family I43 unassigned peptidase inhibitors
+ENSP00000377370,1,0,1,0,0,0,I43.UPW,family I43 unassigned peptidase inhibitors
+ENSP00000356991,1,0,1,0,0,0,I43.UPW,family I43 unassigned peptidase inhibitors
+ENSP00000319730,1,0,1,0,0,0,S01.159,prostasin
+ENSP00000380855,1,0,1,0,0,0,I43.UPW,family I43 unassigned peptidase inhibitors
+ENSP00000350364,1,0,1,0,0,0,I43.UPW,family I43 unassigned peptidase inhibitors
+ENSP00000360147,1,0,1,0,0,0,M24.005,aminopeptidase P2
+ENSP00000339157,1,0,1,0,0,0,M14.006,carboxypeptidase M
+ENSP00000264037,1,0,1,0,0,0,I08.UPW,family I8 unassigned peptidase inhibitors
+ENSP00000261180,1,0,1,0,0,0,M01.008,pyroglutamyl-peptidase II
+ENSP00000359594,1,0,1,0,0,0,M87.002,chloride channel accessory protein 4
+ENSP00000312158,1,0,1,0,0,0,I43.UPW,family I43 unassigned peptidase inhibitors
+ENSP00000330330,1,0,1,0,0,0,S01.247,epitheliasin
+ENSP00000283916,1,0,1,0,0,0,S01.047,human airway trypsin-like peptidase
+ENSP00000330475,1,0,1,0,0,0,S01.365,TMPRSS11B peptidase
+ENSP00000356842,1,0,1,0,0,0,I43.UPW,family I43 unassigned peptidase inhibitors
+ENSP00000357033,1,0,1,0,0,0,I43.UPW,family I43 unassigned peptidase inhibitors
+ENSP00000263636,1,0,1,0,0,0,I63.UNW,family I63 unassigned peptidase inhibitor homologues
+ENSP00000301178,1,0,1,0,0,0,I43.UPW,family I43 unassigned peptidase inhibitors
+ENSP00000308782,1,0,1,0,0,0,I43.UPW,family I43 unassigned peptidase inhibitors
+ENSP00000296350,1,0,1,0,0,0,S60.973,melanotransferrin domain 1
+ENSP00000296350,1,0,1,0,0,0,S60.976,melanotransferrin domain 2
+ENSP00000283243,1,0,1,0,0,0,I63.UPW,family I63 unassigned peptidase inhibitors
+ENSP00000230588,1,0,1,0,0,0,M12.002,meprin alpha subunit
+ENSP00000256999,1,1,1,0,0,0,M28.010,glutamate carboxypeptidase II
+ENSP00000085219,1,0,1,0,0,0,I43.UPW,family I43 unassigned peptidase inhibitors
+ENSP00000304945,1,0,1,0,0,0,I43.UPW,family I43 unassigned peptidase inhibitors
+ENSP00000369198,1,0,1,0,0,0,P02.007,Gpr64 ({Mus musculus})-type protein
+ENSP00000278742,1,0,1,0,0,0,S01.302,matriptase
+ENSP00000223642,1,0,1,0,0,0,I39.952,complement component C5
+ENSP00000265132,1,0,1,0,0,0,I02.005,bikunin inhibitor unit 1
+ENSP00000265132,1,0,1,0,0,0,I02.006,bikunin inhibitor unit 2
+ENSP00000245907,1,0,1,0,0,0,I39.950,complement component C3
+ENSP00000416561,1,0,1,0,0,0,S01.196,complement factor Bb
+ENSP00000356671,1,0,1,0,0,0,I04.018,antithrombin
+ENSP00000264691,1,0,1,0,0,0,S01.213,coagulation factor XIa
+ENSP00000253496,1,0,1,0,0,0,S01.211,coagulation factor XIIa
+ENSP00000264690,1,0,1,0,0,0,S01.212,plasma kallikrein
+ENSP00000295640,1,0,1,0,0,0,M01.014,aminopeptidase B
+ENSP00000372815,1,0,1,0,0,0,I39.UPW,family I39 unassigned peptidase inhibitors
+ENSP00000278927,1,0,1,0,0,0,I43.UPW,family I43 unassigned peptidase inhibitors
+ENSP00000263735,1,0,1,0,0,0,I31.UPW,family I31 unassigned peptidase inhibitors
+ENSP00000369699,1,1,1,0,0,0,M02.M01,UNK
+ENSP00000261615,1,0,1,0,0,0,M19.001,membrane dipeptidase
+ENSP00000352138,1,1,1,0,0,0,I43.UPW,family I43 unassigned peptidase inhibitors
+ENSP00000305988,1,0,1,0,0,0,I43.UPW,family I43 unassigned peptidase inhibitors
+ENSP00000419446,1,1,1,0,0,0,M12.209,ADAM9 peptidase
+ENSP00000242786,1,0,1,0,0,0,P02.002,CD97 antigen (human type)
+ENSP00000361850,1,0,1,0,0,0,S01.231,urokinase-type plasminogen activator
+ENSP00000295962,1,1,1,0,0,0,S33.997,monoacylglycerol lipase ABHD6
+ENSP00000263100,1,0,0,0,0,0,I43.950,alpha-1B-glycoprotein
+ENSP00000261336,1,0,0,0,0,0,I39.003,pregnancy-zone protein
+ENSP00000355627,1,0,0,0,0,0,I04.953,angiotensinogen
+ENSP00000328173,1,0,0,0,0,0,S01.193,complement component activated C1s
+ENSP00000319464,1,0,0,0,0,0,M14.004,carboxypeptidase N
+ENSP00000319464,1,0,0,0,0,0,X28.001,carboxypeptidase N 83 kDa chain
+ENSP00000393887,1,0,0,0,0,0,I25.020,alpha-2-HS-glycoprotein inhibitor unit 1
+ENSP00000393887,1,0,0,0,0,0,I25.021,alpha-2-HS-glycoprotein inhibitor unit 2
+ENSP00000308720,1,0,0,0,0,0,S01.127,cationic trypsin ({Homo sapiens}-type)
+ENSP00000299698,1,0,0,0,0,0,I39.UPW,family I39 unassigned peptidase inhibitors
+ENSP00000361761,1,0,0,0,0,0,I17.004,chelonianin inhibitor unit 2
+ENSP00000361761,1,0,0,0,0,0,I17.UNW,family I17 unassigned peptidase inhibitor homologues
+ENSP00000181383,1,0,0,0,0,0,M14.009,carboxypeptidase B2
+ENSP00000372853,1,0,0,0,0,0,S01.194,complement component C2a
+ENSP00000295633,1,0,0,0,0,0,I01.967,follistatin-related protein 1
+ENSP00000295666,1,0,0,0,0,0,I43.UPW,family I43 unassigned peptidase inhibitors
+ENSP00000265029,1,0,0,0,0,0,I25.067,fetuin-B domain 2
+ENSP00000265029,1,0,0,0,0,0,I25.950,kininogen inhibitor unit 1
+ENSP00000250351,1,0,0,0,0,0,S01.020,kallikrein-related peptidase 12
+ENSP00000342850,1,0,0,0,0,0,I04.954,corticosteroid-binding globulin
+ENSP00000295777,1,0,0,0,0,0,I04.025,neuroserpin
+ENSP00000264677,1,0,0,0,0,0,I04.026,serpin I2
+ENSP00000298841,1,0,0,0,0,0,I04.003,kallistatin
+ENSP00000261994,1,0,0,0,0,0,I04.005,protein Z-dependent peptidase inhibitor
+ENSP00000266542,1,0,0,0,0,0,S01.189,complement component C1r-like peptidase
+ENSP00000215727,1,0,0,0,0,0,I04.019,heparin cofactor II
+ENSP00000329374,1,0,0,0,0,0,I04.955,thyroxin-binding globulin
+ENSP00000254722,1,0,0,0,0,0,I04.979,pigment epithelium derived factor
+ENSP00000217423,1,0,0,0,0,0,I25.008,cystatin S
+ENSP00000296695,1,0,0,0,0,0,I01.011,SPINK1
+ENSP00000375678,1,0,0,0,0,0,S01.029,kallikrein-related peptidase 14
+ENSP00000401828,1,0,0,0,0,0,S01.174,mesotrypsin
+ENSP00000362116,1,0,0,0,0,0,A01.003,gastricsin
+ENSP00000378130,1,0,0,0,0,0,S01.199,complement factor I
+ENSP00000342098,1,0,0,0,0,0,I02.007,hepatocyte growth factor activator inhibitor 1 inhibitor unit 1
+ENSP00000342098,1,0,0,0,0,0,I02.008,hepatocyte growth factor activator inhibitor 1 inhibitor unit 2
+ENSP00000354814,1,0,0,0,0,0,C115.001,MINDY-1 protein
+ENSP00000265394,1,0,0,0,0,0,S10.003,vitellogenic carboxypeptidase-like protein
+ENSP00000356104,1,0,0,0,0,0,M20.011,carboxypeptidase PM20D1
+ENSP00000383690,1,0,0,0,0,0,S01.229,mannan-binding lectin-associated serine peptidase 2
+ENSP00000373413,1,0,0,0,0,0,C78.001,UfSP1 peptidase
+ENSP00000342082,1,0,0,0,0,0,I17.001,secretory leukocyte peptidase inhibitor domain 2
+ENSP00000342082,1,0,0,0,0,0,I17.950,secretory leukocyte peptidase inhibitor domain 1
+ENSP00000290216,1,0,0,0,0,0,C69.004,secernin 2
+ENSP00000217939,1,0,0,0,0,0,I43.UPW,family I43 unassigned peptidase inhibitors
+ENSP00000313581,1,0,0,0,0,0,S01.161,kallikrein-related peptidase 2
+ENSP00000322192,1,0,0,0,0,0,A01.001,pepsin A
+ENSP00000309542,1,0,0,0,0,0,A01.070,pepsin A4
+ENSP00000309542,1,0,0,0,0,0,A01.071,pepsin A5 ({Homo sapiens})
+ENSP00000307132,1,0,0,0,0,0,I25.005,cystatin D
+ENSP00000244137,1,0,0,0,0,0,M24.007,Xaa-Pro dipeptidase (eukaryote-type)
+ENSP00000303206,1,0,0,0,0,0,I63.002,bothrojaracin
+ENSP00000233735,1,0,0,0,0,0,I63.002,bothrojaracin
+ENSP00000344829,1,0,0,0,0,0,M28.974,glutaminyl cyclase
+ENSP00000321691,1,0,0,0,0,0,C56.974,Mername-AA296 non-peptidase homologue
+ENSP00000286657,1,0,0,0,0,0,M12.220,ADAMTS3 peptidase
+ENSP00000282470,1,0,0,0,0,0,I01.UPW,family I1 unassigned peptidase inhibitors
+ENSP00000361405,1,0,0,0,0,0,M10.004,matrix metallopeptidase-9
+ENSP00000260227,1,0,0,0,0,0,M10.008,matrix metallopeptidase-7
+ENSP00000243924,1,0,0,0,0,0,I17.002,elafin
+ENSP00000354255,1,0,0,0,0,0,M14.012,metallocarboxypeptidase Z
+ENSP00000225719,1,0,0,0,0,0,M14.011,metallocarboxypeptidase D peptidase unit 1
+ENSP00000225719,1,0,0,0,0,0,M14.016,metallocarboxypeptidase D peptidase unit 2
+ENSP00000225719,1,0,0,0,0,0,M14.950,metallocarboxypeptidase D non-peptidase unit
+ENSP00000237696,1,0,0,0,0,0,I47.002,ovocalyxin-32
+ENSP00000367001,1,0,0,0,0,0,S09.973,dipeptidylpeptidase homologue DPP6
+ENSP00000262768,1,0,0,0,0,0,I35.002,timp-2
+ENSP00000246186,1,0,1,0,0,0,M10.023,membrane-type matrix metallopeptidase-5
+ENSP00000268220,1,1,0,0,0,0,S26.009,signalase (animal) 18 kDa component
+ENSP00000352936,1,1,0,0,0,0,I01.013,SPINK5 inhibitor unit 1
+ENSP00000352936,1,1,0,0,0,0,I01.028,SPINK5 inhibitor unit 10
+ENSP00000352936,1,1,0,0,0,0,I01.029,SPINK5 inhibitor unit 3
+ENSP00000352936,1,1,0,0,0,0,I01.030,SPINK5 inhibitor unit 4
+ENSP00000352936,1,1,0,0,0,0,I01.032,SPINK5 inhibitor unit 6
+ENSP00000352936,1,1,0,0,0,0,I01.044,SPINK5 inhibitor unit 15
+ENSP00000352936,1,1,0,0,0,0,I01.950,SPINK5 inhibitor unit 2
+ENSP00000352936,1,1,0,0,0,0,I01.951,SPINK5 inhibitor unit 5
+ENSP00000352936,1,1,0,0,0,0,I01.953,SPINK5 inhibitor unit 7
+ENSP00000352936,1,1,0,0,0,0,I01.954,SPINK5 inhibitor unit 8
+ENSP00000352936,1,1,0,0,0,0,I01.955,SPINK5 inhibitor unit 9
+ENSP00000352936,1,1,0,0,0,0,I01.957,SPINK5 inhibitor unit 11
+ENSP00000352936,1,1,0,0,0,0,I01.958,SPINK5 inhibitor unit 12
+ENSP00000352936,1,1,0,0,0,0,I01.959,SPINK5 inhibitor unit 13
+ENSP00000352936,1,1,0,0,0,0,I01.960,SPINK5 inhibitor unit 14
+ENSP00000262626,1,1,1,0,0,0,S01.224,hepsin
+ENSP00000268171,1,1,1,0,0,1,S08.071,furin
+ENSP00000300060,1,1,1,1,0,0,M01.001,aminopeptidase N
+ENSP00000265162,1,1,1,1,0,0,M01.003,aminopeptidase A
+ENSP00000364028,1,1,1,1,1,0,M13.002,endothelin-converting enzyme 1
+ENSP00000232003,1,1,1,1,1,0,I25.022,histidine-rich glycoprotein inhibitor unit 1
+ENSP00000232003,1,1,1,1,1,0,I25.025,histidine-rich glycoprotein inhibitor unit 2
+ENSP00000296456,1,1,0,0,0,0,S09.004,acylaminoacyl-peptidase
+ENSP00000366124,1,1,0,1,1,0,I25.004,cystatin C
+ENSP00000354347,1,1,0,0,0,0,C44.970,glutamine-fructose-6-phosphate transaminase 1
+ENSP00000262288,1,1,0,0,0,0,S10.013,SCPEP1 peptidase
+ENSP00000313490,1,1,0,0,0,0,C56.972,phosphoribosylformylglycinamidine synthase
+ENSP00000276651,1,1,0,0,0,0,M38.973,dihydropyrimidinase
+ENSP00000325548,1,1,0,0,0,0,M20.005,carnosine dipeptidase II
+ENSP00000351170,1,1,0,0,0,0,M38.981,guanine deaminase
+ENSP00000361151,1,1,0,0,0,0,S09.985,bile salt-dependent lipase
+ENSP00000331368,1,1,0,0,0,0,I04.013,serpin B8
+ENSP00000357980,1,1,0,0,0,0,S01.277,HtrA1 peptidase ({Homo sapiens}-type)
+ENSP00000402551,1,1,0,0,0,0,C65.001,otubain-1
+ENSP00000345292,1,1,0,0,0,0,S33.987,NDRG3 protein
+ENSP00000363638,1,1,0,0,0,0,S09.025,lysophospholipase II ({Homo sapiens})
+ENSP00000264265,1,1,0,0,0,0,I47.001,latexin
+ENSP00000269491,1,1,0,0,0,0,I04.016,serpin B12
+ENSP00000341584,1,1,0,0,0,0,I04.017,serpin B13
+ENSP00000343445,1,1,0,0,0,0,I04.008,squamous cell carcinoma antigen 1
+ENSP00000343445,1,1,0,0,0,0,I04.009,squamous cell carcinoma antigen 2
+ENSP00000372221,1,1,0,0,0,0,I04.980,maspin
+ENSP00000271064,1,1,0,0,0,0,C01.975,tubulointerstitial nephritis antigen-related protein
+ENSP00000370115,1,1,0,0,0,0,I04.006,serpin B1
+ENSP00000356634,1,0,0,0,0,0,M43.005,pappalysin-2
+ENSP00000320043,1,1,0,0,0,0,S09.941,highly similar to acyl-protein thioesterase 1 ({Homo sapiens})
+ENSP00000238651,1,1,0,0,0,0,S09.942,esterase/lipase ({Homo sapiens})
+ENSP00000349658,1,1,0,0,0,0,M24.026,aminopeptidase P3
+ENSP00000369739,1,1,0,0,0,0,S33.982,valacyclovir hydrolase
+ENSP00000358714,1,1,0,0,0,0,S01.994,PRSS35 protein
+ENSP00000370074,1,1,0,0,0,0,I04.014,serpin B9
+ENSP00000261714,1,1,0,0,0,0,C01.084,bleomycin hydrolase (animal)
+ENSP00000320324,1,1,0,0,0,0,M01.010,cytosol alanyl aminopeptidase
+ENSP00000228740,1,1,0,0,0,0,M01.004,leukotriene A4 hydrolase
+ENSP00000304782,1,1,0,0,0,0,S09.958,hypothetical protein flj40219
+ENSP00000296125,1,1,0,0,0,1,C111.004,protein-glutamine gamma-glutamyltransferase 4
+ENSP00000301464,1,1,0,0,0,1,I31.952,insulin-like growth factor binding protein 3
+ENSP00000324414,1,1,0,0,0,1,S01.257,kallikrein-related peptidase 11
+ENSP00000369843,1,1,0,0,0,0,S33.973,cytosolic epoxide hydrolase
+ENSP00000350911,1,1,0,0,1,0,A01.010,cathepsin E
+ENSP00000366819,1,1,0,0,0,0,C12.003,ubiquitinyl hydrolase-L3
+ENSP00000261313,1,1,0,0,0,0,I51.002,phosphatidylethanolamine-binding protein
+ENSP00000253693,1,1,0,0,0,0,C02.029,calpain ({Plasmodium}-type)
+ENSP00000275072,1,0,0,0,0,0,M20.021,cytosolic beta-alanyl-lysine dipeptidase
+ENSP00000314151,1,0,0,0,0,0,S01.162,kallikrein-related peptidase 3
+ENSP00000301420,1,0,0,0,0,0,S01.160,kallikrein 1
+ENSP00000223357,1,1,0,0,0,0,M14.951,aortic carboxypeptidase-like protein
+ENSP00000283752,1,1,0,0,0,0,I04.008,squamous cell carcinoma antigen 1
+ENSP00000234347,1,1,1,0,0,0,S01.134,myeloblastin
+ENSP00000220772,1,1,1,0,0,0,I93.002,Crescent protein ({Xenopus} sp.)
+ENSP00000216336,1,1,1,0,0,0,S01.133,cathepsin G
+ENSP00000367992,1,1,1,0,0,1,S09.990,esterase D
+ENSP00000264595,1,1,0,1,0,0,T02.001,glycosylasparaginase precursor
+ENSP00000337354,1,1,0,1,0,0,S33.017,PLN02872 protein ({Homo sapiens}-type)
+ENSP00000286733,1,1,0,1,0,0,C89.002,N-acylethanolamine acid amidase precursor
+ENSP00000256404,1,1,0,1,0,0,I51.UPW,family I51 unassigned peptidase inhibitors
+ENSP00000280800,1,1,0,1,0,0,C95.001,lysosomal 66.3 kDa protein ({Mus musculus}-type)
+ENSP00000360635,1,1,0,1,0,0,S28.002,dipeptidyl-peptidase II
+ENSP00000220763,1,1,0,1,0,1,M28.014,carboxypeptidase Q
+ENSP00000227266,1,1,0,1,0,1,C01.070,dipeptidyl-peptidase I
+ENSP00000217131,1,1,1,1,0,0,C01.013,cathepsin X
+ENSP00000377055,1,1,1,1,0,0,S28.001,lysosomal Pro-Xaa carboxypeptidase
+ENSP00000233997,1,1,0,1,0,0,S01.971,azurocidin
+ENSP00000253719,1,1,0,1,0,0,A01.046,napsin A
+ENSP00000260118,1,1,0,1,0,0,C26.001,gamma-glutamyl hydrolase
+ENSP00000284440,1,1,0,0,0,0,C12.001,ubiquitinyl hydrolase-L1
+ENSP00000311121,1,1,0,0,0,0,T01.978,2410072d24rik protein (mouse)
+ENSP00000311313,1,0,1,0,0,0,I25.006,cystatin 6
+ENSP00000264474,1,1,1,0,0,0,I25.001,cystatin A
+ENSP00000156476,1,1,0,0,0,0,S01.306,kallikrein-related peptidase 13
+ENSP00000312134,1,1,0,0,0,0,I63.001,pro-eosinophil major basic protein
+ENSP00000220809,1,1,0,0,0,0,S01.232,t-plasminogen activator
+ENSP00000261601,1,1,1,0,0,0,C19.015,ubiquitin-specific peptidase 14
+ENSP00000266085,1,0,0,0,0,0,I35.003,timp-3
+ENSP00000264187,1,0,0,0,0,0,I31.UPW,family I31 unassigned peptidase inhibitors
+ENSP00000264187,1,0,0,0,0,0,I63.UPW,family I63 unassigned peptidase inhibitors
+ENSP00000216286,1,0,0,0,0,0,I31.UPW,family I31 unassigned peptidase inhibitors
+ENSP00000216286,1,0,0,0,0,0,I63.UPW,family I63 unassigned peptidase inhibitors
+ENSP00000290866,1,1,1,0,1,0,M02.001,angiotensin-converting enzyme peptidase unit 1
+ENSP00000290866,1,1,1,0,1,0,M02.004,angiotensin-converting enzyme peptidase unit 2
+ENSP00000353224,1,1,1,0,1,0,M28.972,transferrin receptor protein
+ENSP00000252519,1,1,1,0,0,0,M02.006,angiotensin-converting enzyme-2
+ENSP00000263574,1,0,1,0,0,0,I02.016,amyloid precursor-like protein 2
+ENSP00000223215,1,1,0,0,0,0,S33.972,mesoderm specific transcript protein
+ENSP00000361845,1,1,0,0,0,0,M48.003,farnesylated-protein converting enzyme 1
+ENSP00000349436,1,1,1,0,0,0,M12.215,ADAM15 peptidase
+ENSP00000218230,1,1,0,0,0,0,I49.001,proSAAS
+ENSP00000370473,1,0,0,0,0,0,I31.952,insulin-like growth factor binding protein 3
+ENSP00000344742,1,1,1,0,1,0,M67.006,STAMBP isopeptidase
+ENSP00000233809,1,1,1,0,0,0,I31.953,insulin-like growth factor binding protein 2
+ENSP00000360269,1,1,1,0,0,0,I31.UPW,family I31 unassigned peptidase inhibitors
+ENSP00000262304,1,1,1,0,0,1,P02.036,polycystin-1
+ENSP00000364697,1,1,0,0,0,1,S01.979,protein Z
+ENSP00000350894,1,1,0,0,0,0,I04.035,colligin 1
+ENSP00000350894,1,1,0,0,0,0,I04.036,colligin 2
+ENSP00000296754,1,1,0,0,0,0,M01.018,endoplasmic reticulum aminopeptidase 1
+ENSP00000308541,1,1,1,0,0,1,S01.217,thrombin
+ENSP00000218099,1,1,1,0,0,1,S01.214,coagulation factor IXa
+ENSP00000295550,1,1,1,0,0,0,I02.968,collagen alpha 3(VI) chain
+ENSP00000371152,1,1,0,1,0,0,C89.001,acid ceramidase precursor
+ENSP00000310832,1,1,0,1,0,0,C01.018,cathepsin F
+ENSP00000361562,1,1,0,1,0,0,S10.002,serine carboxypeptidase A
+ENSP00000334052,1,1,0,1,1,0,C13.004,"legumain, animal-type"
+ENSP00000236671,1,1,0,1,0,0,A01.009,cathepsin D
+ENSP00000299427,1,1,0,1,0,0,S53.003,tripeptidyl-peptidase I
+ENSP00000342070,1,1,0,1,1,0,C01.060,cathepsin B
+ENSP00000345344,1,1,0,1,1,0,C01.032,cathepsin L
+ENSP00000345344,1,1,0,1,1,0,I29.001,cathepsin L propeptide
+ENSP00000271651,1,1,0,1,1,0,C01.036,cathepsin K
+ENSP00000271651,1,1,0,1,1,0,I29.007,cathepsin K propeptide
+ENSP00000357981,1,1,0,1,1,0,C01.034,cathepsin S
+ENSP00000357981,1,1,0,1,1,0,I29.004,cathepsin S propeptide
+ENSP00000354841,1,1,0,0,0,0,S33.983,Ccg1-interacting factor b
+ENSP00000291568,1,1,0,0,0,0,I25.003,cystatin B
+ENSP00000302886,1,1,0,0,0,0,M24.973,proliferation-association protein 1
+ENSP00000263621,1,1,0,0,0,0,S01.131,elastase-2
+ENSP00000216455,1,1,0,0,0,0,T01.977,proteasome subunit alpha 3
+ENSP00000271308,1,1,0,0,0,0,T01.975,proteasome subunit alpha 5
+ENSP00000359910,1,1,0,0,0,0,T01.974,proteasome subunit alpha 7
+ENSP00000262193,1,1,0,0,0,0,T01.986,proteasome subunit beta 1
+ENSP00000290541,1,1,0,0,0,0,T01.987,proteasome subunit beta 4
+ENSP00000355325,1,1,0,0,0,0,T01.012,proteasome subunit beta5c
+ENSP00000270586,1,1,0,0,0,0,T01.010,proteasome subunit beta1c
+ENSP00000362334,1,1,0,0,0,0,T01.984,proteasome subunit beta 2
+ENSP00000219313,1,1,0,0,0,0,M67.973,26S proteasome non-ATPase regulatory subunit 7
+ENSP00000386541,1,1,0,0,0,0,M67.A10,F37A4.5 protein ({Caenorhabditis elegans})
+ENSP00000259457,1,1,0,0,0,0,T01.011,proteasome subunit beta2c
+ENSP00000259457,1,1,0,0,0,0,T01.017,protein serine kinase c17
+ENSP00000223321,1,1,0,0,0,0,T01.972,proteasome subunit alpha 2
+ENSP00000044462,1,1,0,0,0,0,T01.973,proteasome subunit alpha 4
+ENSP00000261479,1,1,0,0,0,0,T01.971,proteasome subunit alpha 6
+ENSP00000304102,1,1,0,0,0,0,M67.972,COP9 signalosome subunit 6
+ENSP00000340278,1,1,1,0,0,0,C56.002,DJ-1 putative peptidase
+ENSP00000338983,1,1,1,0,0,1,S71.001,MUC1 self-cleaving mucin
+ENSP00000393417,1,1,0,0,0,0,C14.018,caspase-14
+ENSP00000237289,1,1,0,1,0,0,C64.003,A20 peptidase
+ENSP00000353452,1,1,0,0,0,0,I43.UPW,family I43 unassigned peptidase inhibitors
+ENSP00000319977,1,1,1,0,1,0,S33.988,Mername-AA229 peptidase homologue
+ENSP00000206765,1,0,1,0,0,0,C111.008,protein-glutamine gamma-glutamyltransferase K/1
+ENSP00000309539,1,1,0,0,0,0,M38.975,dihydropyrimidinase related protein-2
+ENSP00000264705,1,1,0,0,0,0,C26.952,dihydro-orotase (N-terminal unit) ({Homo sapiens}-type)
+ENSP00000264705,1,1,0,0,0,0,M38.972,dihydro-orotase
+ENSP00000279247,1,1,1,0,0,0,C02.001,calpain-1
+ENSP00000355330,1,1,1,0,0,0,C111.002,transglutaminase 2
+ENSP00000226299,1,1,0,0,0,0,M17.001,leucyl aminopeptidase 3
+ENSP00000295006,1,1,1,0,0,1,C02.002,calpain-2
+ENSP00000353731,1,1,1,1,0,0,S09.003,dipeptidyl-peptidase IV (eukaryote)
+ENSP00000323929,1,1,0,0,0,0,I39.001,alpha-2-macroglobulin
+ENSP00000278407,1,1,0,0,0,0,I04.024,C1 inhibitor
+ENSP00000278407,1,1,0,0,0,0,I04.UPW,family I4 unassigned peptidase inhibitors
+ENSP00000332139,1,1,0,0,0,0,S01.191,complement factor D
+ENSP00000223095,1,1,1,0,0,0,I04.020,plasminogen activator inhibitor-1
+ENSP00000321853,1,1,0,0,0,0,I04.023,plasmin inhibitor
+ENSP00000218388,1,1,0,0,0,0,I35.001,timp-1
+ENSP00000348068,1,1,0,0,0,1,I04.001,alpha-1-peptidase inhibitor
+ENSP00000264870,1,1,0,0,0,0,C111.001,coagulation factor XIIIa
+ENSP00000222390,1,1,0,0,0,0,S01.976,hepatocyte growth factor
+ENSP00000308024,1,1,0,0,0,1,S08.072,PCSK1 peptidase
+ENSP00000262545,1,1,0,0,0,0,S08.073,PCSK2 peptidase
+ENSP00000308938,1,1,1,0,0,0,S01.233,plasmin
+ENSP00000261405,1,1,1,0,0,0,I08.950,von Willebrand factor
+ENSP00000261405,1,1,1,0,0,0,I08.954,von Willebrand factor inhibitor unit 2
+ENSP00000348170,1,1,0,0,0,0,S01.972,haptoglobin-1
+ENSP00000231751,1,1,0,0,0,0,S60.001,lactoferrin
+ENSP00000231751,1,1,0,0,0,0,S60.970,"lactotransferrin precursor, domain 2"
+ENSP00000231061,1,1,0,0,0,0,I01.UPW,family I1 unassigned peptidase inhibitors
+ENSP00000333203,1,1,1,0,0,0,I04.004,protein C inhibitor
+ENSP00000303208,1,1,1,1,1,1,S08.039,PCSK9 peptidase
+ENSP00000415786,1,1,1,0,0,0,I04.021,protease nexin-1
+ENSP00000220166,1,1,0,1,0,0,C01.040,cathepsin H
+ENSP00000265077,1,1,0,1,0,1,I63.UPW,family I63 unassigned peptidase inhibitors
+ENSP00000331210,1,1,0,1,0,1,I63.UNW,family I63 unassigned peptidase inhibitor homologues
+ENSP00000368678,1,1,1,1,0,1,I01.UPW,family I1 unassigned peptidase inhibitors
+ENSP00000231368,1,1,1,1,1,0,M01.011,cystinyl aminopeptidase
+ENSP00000259470,1,1,1,1,0,0,C01.009,cathepsin V
+ENSP00000259470,1,1,1,1,0,0,I29.010,cathepsin V propeptide
+ENSP00000312435,1,1,1,0,0,0,S72.001,dystroglycan
+ENSP00000374989,1,0,0,0,0,0,I43.UPW,family I43 unassigned peptidase inhibitors
+ENSP00000234701,1,1,1,0,0,0,M87.001,chloride channel accessory protein 1
+ENSP00000386104,1,1,1,0,0,1,M14.005,carboxypeptidase E
+ENSP00000009530,1,1,1,1,1,1,I31.002,MHC II invariant chain p41 form
+ENSP00000261854,1,1,1,1,1,1,A22.007,signal peptide peptidase-like protein 2A
+ENSP00000255304,1,0,0,0,0,0,C98.001,USPL1 peptidase
+ENSP00000265986,1,1,1,0,0,0,M16.002,insulysin
+ENSP00000265986,1,1,1,0,0,0,M16.982,insulysin unit 2
+ENSP00000265986,1,1,1,0,0,0,M16.984,insulysin unit 3
+ENSP00000364709,1,1,1,0,0,1,S01.216,coagulation factor Xa
+ENSP00000382356,1,1,0,0,0,0,I02.974,LOC222978 protein ({Homo sapiens}) and similar
+ENSP00000332371,1,1,0,0,0,0,I02.967,collagen alpha 1(VII) chain
+ENSP00000406861,1,1,0,0,0,1,I08.952,mucin 6
+ENSP00000406861,1,1,0,0,0,1,I08.955,mucin 6 ({Homo sapiens})
+ENSP00000215743,1,1,0,0,0,1,M10.007,matrix metallopeptidase-11
+ENSP00000364731,1,1,1,0,0,1,S01.215,coagulation factor VIIa
+ENSP00000234071,1,1,1,0,0,1,S01.218,protein C (activated)
+ENSP00000482760,1,1,0,0,0,1,S08.075,PCSK6 peptidase
+ENSP00000286614,1,1,1,0,0,1,M10.016,membrane-type matrix metallopeptidase-3
+ENSP00000365943,1,1,0,0,0,1,S08.076,PCSK5 peptidase
+ENSP00000303211,1,1,1,0,0,1,S09.979,acetylcholinesterase
+ENSP00000367668,1,1,0,0,0,1,M13.008,neprilysin-2
+ENSP00000330658,1,1,0,0,0,0,M43.004,pappalysin-1
+ENSP00000292408,1,1,1,0,1,0,I43.UPW,family I43 unassigned peptidase inhibitors
+ENSP00000295408,1,1,1,0,0,0,I43.UPW,family I43 unassigned peptidase inhibitors
+ENSP00000305714,1,1,1,0,0,1,M12.005,procollagen C-peptidase
+ENSP00000233156,1,1,1,0,0,0,I02.011,tissue factor pathway inhibitor-1 inhibitor unit 1
+ENSP00000233156,1,1,1,0,0,0,I02.012,tissue factor pathway inhibitor-1 inhibitor unit 2
+ENSP00000233156,1,1,1,0,0,0,I02.950,tissue factor pathway inhibitor-1 unit 3
+ENSP00000297767,1,0,0,0,0,0,S01.989,Prss37 protein
+ENSP00000256759,1,1,0,0,0,0,I01.966,follistatin
+ENSP00000353720,1,1,0,0,0,0,S09.982,liver carboxylesterase
+ENSP00000274306,1,0,1,0,0,0,S01.135,granzyme A
+ENSP00000273075,1,1,0,0,0,0,M18.002,aspartyl aminopeptidase
+ENSP00000238508,1,1,0,0,0,0,I04.015,serpin B10
+ENSP00000410715,1,1,0,0,0,0,I93.UPW,family I93 unassigned peptidase inhibitors
+ENSP00000372224,1,1,0,0,0,0,S01.228,hepatocyte growth factor activator
+ENSP00000284984,1,1,0,0,0,0,M12.222,ADAMTS1 peptidase
+ENSP00000418735,1,1,0,0,0,0,M12.021,ADAMTS9 peptidase
+ENSP00000348308,1,1,0,0,0,0,M10.022,matrix metallopeptidase-23B
+ENSP00000222543,1,0,0,0,0,0,I02.013,tissue factor pathway inhibitor-2 inhibitor unit 1
+ENSP00000222543,1,0,0,0,0,0,I02.014,tissue factor pathway inhibitor-2 inhibitor unit 2
+ENSP00000222543,1,0,0,0,0,0,I02.951,tissue factor pathway inhibitor-2 unit 3
+ENSP00000290271,1,1,1,0,0,0,I100.001,stanniocalcin-1
+ENSP00000300175,1,1,0,0,0,0,I21.001,secretogranin V
+ENSP00000296046,1,1,0,0,0,0,M14.010,carboxypeptidase A3
+ENSP00000337733,1,1,0,0,0,0,S01.017,kallikrein-related peptidase 5
+ENSP00000470538,1,1,0,0,0,0,S01.300,kallikrein-related peptidase 7
+ENSP00000166139,1,1,0,0,0,1,I01.968,follistatin-related protein 3
+ENSP00000216139,1,1,0,0,0,1,S01.223,acrosin
+ENSP00000353679,1,1,1,0,0,0,M13.001,neprilysin
+ENSP00000236938,1,1,0,0,0,0,I43.UPW,family I43 unassigned peptidase inhibitors
+ENSP00000256585,1,1,0,0,0,0,I63.002,bothrojaracin
+ENSP00000219301,1,1,0,0,0,0,S01.992,plasma kallikrein-like protein 4
+ENSP00000246012,1,1,0,0,0,0,I25.027,cystatin-related epididymal spermatogenic protein
+ENSP00000322159,1,1,0,0,0,0,C54.004,autophagin-3
+ENSP00000250378,1,0,0,0,0,0,S01.140,chymase ({Homo sapiens}-type)
+ENSP00000337212,1,1,0,0,0,0,I04.012,megsin
+ENSP00000375682,1,1,0,0,0,0,S01.244,kallikrein-related peptidase 8
+ENSP00000304311,1,1,0,0,0,0,I63.002,bothrojaracin
+ENSP00000348645,1,1,0,0,0,0,I43.UPW,family I43 unassigned peptidase inhibitors
+ENSP00000337133,1,1,0,0,0,0,I04.082,centerin
+ENSP00000337133,1,1,0,0,0,0,I04.UPW,family I4 unassigned peptidase inhibitors
+ENSP00000268281,1,1,0,0,0,0,S01.414,polyserase-2 unit 1
+ENSP00000268281,1,1,0,0,0,0,S01.940,polyserase-2 unit 2
+ENSP00000268281,1,1,0,0,0,0,S01.941,polyserase-2 unit 3
+ENSP00000410076,1,1,0,0,0,0,C14.001,caspase-1
+ENSP00000309148,1,1,0,0,0,0,S01.236,kallikrein-related peptidase 6
+ENSP00000264381,1,1,0,0,0,0,S09.980,cholinesterase
+ENSP00000360782,1,1,0,0,0,0,M16.971,mitochondrial processing peptidase non-peptidase alpha subunit
+ENSP00000360782,1,1,0,0,0,0,M16.P01,LOC133083 g.p. ({Homo sapiens})
+ENSP00000268379,1,1,0,0,0,0,M16.974,ubiquinol-cytochrome c reductase core protein II
+ENSP00000381526,1,1,0,0,0,0,M38.976,dihydropyrimidinase related protein-3
+ENSP00000287814,1,1,0,0,0,0,I35.004,timp-4
+ENSP00000219070,1,1,1,0,0,0,M10.003,matrix metallopeptidase-2
+ENSP00000276682,1,1,0,0,0,0,M67.971,Mername-AA168 protein
+ENSP00000296498,1,1,1,0,0,0,S01.237,neurotrypsin
+ENSP00000260408,1,1,1,0,0,1,M12.210,ADAM10 peptidase
+ENSP00000284981,1,1,1,0,1,1,I02.015,protease nexin-2
+ENSP00000264025,1,0,1,0,0,0,I43.UPW,family I43 unassigned peptidase inhibitors
+ENSP00000370867,1,1,1,0,0,0,C111.003,protein-glutamine gamma-glutamyltransferase E/3
+ENSP00000284878,1,1,1,0,0,0,I43.UPW,family I43 unassigned peptidase inhibitors
+ENSP00000272771,1,0,0,0,0,0,I01.969,tomoregulin
+ENSP00000272771,1,0,0,0,0,0,I01.978,Tmeff2 protein
+ENSP00000355010,1,0,0,0,0,0,I43.UPW,family I43 unassigned peptidase inhibitors
+ENSP00000343366,1,0,0,0,0,0,I43.UPW,family I43 unassigned peptidase inhibitors
+ENSP00000264377,1,0,1,0,0,0,M12.979,ADAM23 protein
+ENSP00000307519,1,0,1,0,0,0,S01.021,DESC1 peptidase
+ENSP00000348639,1,0,1,0,0,0,S01.321,"transmembrane peptidase, serine 11F"
+ENSP00000347714,1,0,1,0,0,0,I43.951,immunoglobulin alpha Fc receptor
+ENSP00000273857,1,0,1,0,0,0,S01.019,corin
+ENSP00000269202,1,0,1,0,0,0,M12.004,meprin beta subunit
+ENSP00000375629,1,1,1,0,0,0,I43.UPW,family I43 unassigned peptidase inhibitors
+ENSP00000353767,1,0,1,0,0,0,M10.017,membrane-type matrix metallopeptidase-4
+ENSP00000357668,1,0,1,0,0,0,M12.212,ADAM12 peptidase
+ENSP00000265769,1,0,1,0,0,0,M12.224,ADAM28 peptidase ({Homo sapiens}-type)
+ENSP00000253673,1,0,1,0,0,0,P02.003,EGF-like module containing mucin-like hormone receptor-like 3
+ENSP00000287097,1,0,1,0,0,0,I39.006,antigen CD109
+ENSP00000359596,1,0,1,0,0,0,M87.003,chloride channel accessory protein 2
+ENSP00000386126,1,1,1,0,0,0,I17.UPW,family I17 unassigned peptidase inhibitors
+ENSP00000386126,1,1,1,0,0,0,I63.UPW,family I63 unassigned peptidase inhibitors
+ENSP00000299106,1,0,1,0,0,0,I43.UPW,family I43 unassigned peptidase inhibitors
+ENSP00000306390,1,0,1,0,0,0,S01.074,marapsin
+ENSP00000295731,1,0,1,0,0,0,C46.003,Indian hedgehog protein
+ENSP00000272190,1,0,1,0,0,0,A01.007,renin
+ENSP00000229003,1,1,1,0,0,0,X41.001,placental protein P11 putative peptidase
+ENSP00000266066,1,1,1,0,0,0,I93.002,Crescent protein ({Xenopus} sp.)
+ENSP00000299502,1,1,1,0,0,0,I04.007,plasminogen activator inhibitor 2
+ENSP00000274063,1,1,1,0,0,0,I93.002,Crescent protein ({Xenopus} sp.)
+ENSP00000262648,1,0,1,0,0,0,I17.004,chelonianin inhibitor unit 2
+ENSP00000337816,1,0,1,0,0,0,M10.024,membrane-type matrix metallopeptidase-6
+ENSP00000188790,1,0,1,0,0,0,S09.007,fibroblast activation protein alpha subunit
+ENSP00000297261,1,0,1,0,0,0,C46.002,Sonic hedgehog protein
+ENSP00000264553,1,0,0,0,0,0,S01.139,granzyme M
+ENSP00000366240,1,0,0,0,0,0,S09.055,Mername-AA197 putative peptidase
+ENSP00000250974,1,0,0,0,0,0,S09.052,Mername-AA194 putative peptidase
+ENSP00000344847,1,0,0,0,0,0,M12.237,ADAMTS12 peptidase
+ENSP00000362304,1,0,0,0,0,0,M12.024,ADAMTS14 peptidase
+ENSP00000370443,1,0,0,0,0,0,M12.230,ADAMTS6 peptidase
+ENSP00000257359,1,0,0,0,0,0,M12.226,ADAMTS8 peptidase
+ENSP00000297770,1,0,0,0,0,0,M14.018,carboxypeptidase A6
+ENSP00000274181,1,0,0,0,0,0,M12.026,ADAMTS16 peptidase
+ENSP00000369753,1,0,0,0,0,0,M10.029,matrix metallopeptidase-26
+ENSP00000260229,1,0,0,0,0,0,M10.027,matrix metallopeptidase-22
+ENSP00000299164,1,0,0,0,0,0,M12.025,ADAMTS15 peptidase
+ENSP00000268070,1,0,0,0,0,0,M12.027,ADAMTS17 peptidase
+ENSP00000251582,1,0,0,0,0,0,M12.301,procollagen I N-peptidase
+ENSP00000284987,1,0,0,0,0,0,M12.225,ADAMTS5 peptidase
+ENSP00000282849,1,0,0,0,0,0,M12.028,ADAMTS18 peptidase
+ENSP00000313437,1,0,0,0,0,0,M10.021,matrix metallopeptidase-19
+ENSP00000458585,1,0,0,0,0,0,M10.009,matrix metallopeptidase-12
+ENSP00000322788,1,0,0,0,0,0,M10.001,matrix metallopeptidase-1
+ENSP00000321108,1,0,0,0,0,0,I31.954,testican-2
+ENSP00000374071,1,0,0,0,0,0,M12.246,ADAMTS20 peptidase ({Homo sapiens}-type)
+ENSP00000260302,1,0,0,0,0,0,M10.013,matrix metallopeptidase-13
+ENSP00000299855,1,0,0,0,0,0,M10.005,matrix metallopeptidase-3
+ENSP00000260228,1,0,0,0,0,0,M10.019,matrix metallopeptidase-20
+ENSP00000236826,1,0,0,0,0,0,M10.002,matrix metallopeptidase-8
+ENSP00000350153,1,0,0,0,0,0,I01.980,Spock2 protein
+ENSP00000350153,1,0,0,0,0,0,I31.007,testican 3
+ENSP00000356975,1,0,0,0,0,0,M12.221,ADAMTS4 peptidase
+ENSP00000279441,1,0,0,0,0,0,M10.006,matrix metallopeptidase-10 ({Homo sapiens}-type)
+ENSP00000346537,1,0,0,0,0,0,I01.UPW,family I1 unassigned peptidase inhibitors
+ENSP00000346537,1,0,0,0,0,0,I31.UPW,family I31 unassigned peptidase inhibitors
+ENSP00000345395,1,0,0,0,0,0,I43.UPW,family I43 unassigned peptidase inhibitors
+ENSP00000355110,1,0,0,0,0,0,I01.UPW,family I1 unassigned peptidase inhibitors
+ENSP00000355110,1,0,0,0,0,0,I31.UPW,family I31 unassigned peptidase inhibitors
+ENSP00000259782,1,0,0,0,0,0,C01.973,tubulointerstitial nephritis antigen
+ENSP00000332723,1,1,0,0,0,0,I63.UPW,family I63 unassigned peptidase inhibitors
+ENSP00000361400,1,0,0,0,0,0,I63.UPW,family I63 unassigned peptidase inhibitors
+ENSP00000256412,1,0,0,0,0,0,M12.219,ADAMDEC1 peptidase
+ENSP00000061240,1,0,0,0,0,0,M12.016,vertebrate tolloid-like 1 protein
+ENSP00000305919,1,0,0,0,0,0,S01.285,HtrA4 peptidase
+ENSP00000350630,1,0,0,0,0,0,M12.018,mammalian-type tolloid-like 2 protein
+ENSP00000401328,1,0,0,0,0,0,S01.325,epidermis-specific SP-like putative peptidase
+ENSP00000355719,1,0,0,0,0,0,S01.318,marapsin-2
+ENSP00000314783,1,0,0,0,0,0,S01.081,kallikrein-related peptidase 15
+ENSP00000311746,1,0,0,0,0,0,S01.246,kallikrein-related peptidase 10
+ENSP00000250366,1,0,0,0,0,0,S01.307,kallikrein-related peptidase 9
+ENSP00000366170,1,0,0,0,0,0,I25.065,cystatin 9 ({Homo sapiens})
+ENSP00000366170,1,0,0,0,0,0,I25.UPB,subfamily I25B unassigned peptidase inhibitors
+ENSP00000280606,1,0,0,0,0,0,S01.375,polyserase-3 unit 2
+ENSP00000367139,1,0,0,0,0,0,I01.054,SPINK9
+ENSP00000407497,1,0,0,0,0,0,I01.UPW,family I1 unassigned peptidase inhibitors
+ENSP00000274565,1,0,0,0,0,0,I01.057,esophagus cancer-related gene-2
+ENSP00000324870,1,0,0,0,0,0,I01.015,SPINK6
+ENSP00000369045,1,0,0,0,0,0,I01.970,SPINK4 protein
+ENSP00000289953,1,0,0,0,0,0,I02.971,WFDC8 protein ({Homo sapiens})
+ENSP00000289953,1,0,0,0,0,0,I17.UPW,family I17 unassigned peptidase inhibitors
+ENSP00000248701,1,0,0,0,0,0,I01.012,SPINK2
+ENSP00000349459,1,0,0,0,0,0,I01.975,LOC225445 protein
+ENSP00000366178,1,0,0,0,0,0,I25.UNB,subfamily I25B unassigned peptidase inhibitor homologues
+ENSP00000482743,1,0,0,0,0,0,S01.015,tryptase beta
+ENSP00000482743,1,0,0,0,0,0,S01.143,tryptase alpha
+ENSP00000279058,1,0,0,0,0,0,I02.975,9230105I15Rik protein ({Mus musculus}) and similar
+ENSP00000279058,1,0,0,0,0,0,I02.UPW,family I2 unassigned peptidase inhibitors
+ENSP00000161006,1,0,0,0,0,0,S01.252,prosemin
+ENSP00000324763,1,0,0,0,0,0,I02.033,WFIKKN peptidase inhibitor inhibitor unit 3
+ENSP00000324763,1,0,0,0,0,0,I02.953,WFIKKN peptidase inhibitor inhibitor unit 2
+ENSP00000324763,1,0,0,0,0,0,I17.951,WFIKKN peptidase inhibitor inhibitor unit 1
+ENSP00000351682,1,0,0,0,0,0,M20.006,carnosine dipeptidase I
+ENSP00000361875,1,0,0,0,0,0,I17.003,whey acidic protein-2
+ENSP00000231009,1,0,0,0,0,0,S01.146,granzyme K
+ENSP00000303766,1,0,0,0,0,0,S01.284,HtrA3 peptidase
+ENSP00000361755,1,0,0,0,0,0,I17.953,eppin inhibitor unit 1
+ENSP00000326159,1,0,0,0,0,0,S01.251,kallikrein-related peptidase 4
+ENSP00000381468,1,0,0,0,0,0,I01.060,SPINK13
+ENSP00000217428,1,0,0,0,0,0,I02.969,HKIB9
+ENSP00000265342,1,0,0,0,0,0,I01.977,KIAA1263 protein
+ENSP00000265342,1,0,0,0,0,0,I43.UPW,family I43 unassigned peptidase inhibitors
+ENSP00000243938,1,0,0,0,0,0,I17.001,secretory leukocyte peptidase inhibitor domain 2
+ENSP00000361726,1,0,0,0,0,0,I17.UPW,family I17 unassigned peptidase inhibitors
+ENSP00000371036,1,0,0,0,0,0,I43.UPW,family I43 unassigned peptidase inhibitors
+ENSP00000361871,1,0,0,0,0,0,I17.003,whey acidic protein-2
+ENSP00000244296,1,0,0,0,0,0,I43.UPW,family I43 unassigned peptidase inhibitors
+ENSP00000311184,1,0,0,0,0,0,I02.954,WFIKKNRP putative peptidase inhibitor unit 2
+ENSP00000311184,1,0,0,0,0,0,I02.955,WFIKKNRP putative peptidase inhibitor unit 3
+ENSP00000311184,1,0,0,0,0,0,I17.952,WFIKKNRP putative peptidase inhibitor unit 1
+ENSP00000293636,1,0,0,0,0,0,S01.153,elastase-1
+ENSP00000352639,1,0,0,0,0,0,S01.155,pancreatic elastase II
+ENSP00000365075,1,0,0,0,0,0,S01.206,pancreatic elastase IIB
+ENSP00000290567,1,0,0,0,0,0,S09.960,hypothetical protein flj33678
+ENSP00000222481,1,0,0,0,0,0,M14.002,carboxypeptidase A2
+ENSP00000222482,1,0,0,0,0,0,M14.017,carboxypeptidase A4
+ENSP00000282957,1,0,0,0,0,0,M14.003,carboxypeptidase B
+ENSP00000246020,1,0,0,0,0,0,I25.UPB,subfamily I25B unassigned peptidase inhibitors
+ENSP00000221730,1,0,0,0,0,0,S33.978,hypothetical protein flj22408 (epoxide hydrolase)
+ENSP00000305334,1,0,0,0,0,0,I01.977,KIAA1263 protein
+ENSP00000305334,1,0,0,0,0,0,I43.UPW,family I43 unassigned peptidase inhibitors
+ENSP00000366923,1,0,0,0,0,0,I43.UPW,family I43 unassigned peptidase inhibitors
+ENSP00000272852,1,0,0,0,0,0,M14.021,metallocarboxypeptidase O
+ENSP00000251296,1,0,0,0,0,0,I43.UPW,family I43 unassigned peptidase inhibitors
+ENSP00000326708,1,0,0,0,0,0,S01.078,ovochymase-1 domain 1
+ENSP00000326708,1,0,0,0,0,0,S01.322,ovochymase 1 domain 1
+ENSP00000211076,1,0,0,0,0,0,S01.054,tryptase delta 1 ({Homo sapiens})
+ENSP00000337466,1,0,0,0,0,0,I17.UNW,family I17 unassigned peptidase inhibitor homologues
+ENSP00000357798,1,0,0,0,0,0,M10.026,matrix metallopeptidase-21
+ENSP00000011292,1,0,0,0,0,0,M14.001,carboxypeptidase A1
+ENSP00000277903,1,0,0,0,0,0,S01.033,factor VII-activating peptidase
+ENSP00000275525,1,0,0,0,0,0,I31.951,insulin-like growth factor binding protein
+ENSP00000241305,1,0,0,0,0,0,M14.955,inactive carboxypeptidase-like protein X2 ({Homo sapiens})
+ENSP00000369979,1,0,0,0,0,0,M14.039,metallocarboxypeptidase CPX-1 ({Homo sapiens})
+ENSP00000359446,1,0,0,0,0,0,M14.004,carboxypeptidase N
+ENSP00000335024,1,0,0,0,0,0,I04.UPW,family I4 unassigned peptidase inhibitors
+ENSP00000342109,1,0,0,0,0,0,I04.091,serpinA12
+ENSP00000220616,1,0,0,0,0,0,I31.950,thyroglobulin
+ENSP00000220616,1,0,0,0,0,0,S09.978,thyroglobulin precursor
+ENSP00000305731,1,0,0,0,0,0,I25.010,cystatin SN
+ENSP00000269593,1,0,0,0,0,0,I31.952,insulin-like growth factor binding protein 3
+ENSP00000303963,1,0,0,0,0,0,S01.152,chymotrypsin B
+ENSP00000386207,1,0,0,0,0,0,I04.UPW,family I4 unassigned peptidase inhibitors
+ENSP00000307540,1,0,0,0,0,0,I25.004,cystatin C
+ENSP00000307540,1,0,0,0,0,0,I25.009,cystatin SA
+ENSP00000296280,1,0,0,0,0,0,S01.132,mannan-binding lectin-associated serine peptidase-3
+ENSP00000296280,1,0,0,0,0,0,S01.198,mannan-binding lectin-associated serine peptidase 1
+ENSP00000293851,1,0,0,0,0,0,S01.075,tryptase-6
+ENSP00000354294,1,0,0,0,0,0,S01.152,chymotrypsin B
+ENSP00000219454,1,0,0,0,0,0,I17.UPW,family I17 unassigned peptidase inhibitors
+ENSP00000233813,1,0,0,0,0,0,I31.952,insulin-like growth factor binding protein 3
+ENSP00000360997,1,0,0,0,0,0,M12.241,ADAMTS13 peptidase
+ENSP00000373472,1,0,0,0,0,0,M12.231,ADAMTS7 peptidase
+ENSP00000361746,1,0,0,0,0,0,I02.058,"eppin-3, inhibitor unit 2"
+ENSP00000361746,1,0,0,0,0,0,I17.953,eppin inhibitor unit 1
+ENSP00000321334,1,0,0,0,0,0,S01.999,apolipoprotein
+ENSP00000488338,1,0,0,0,0,0,S01.258,trypsin-2 type A
+ENSP00000308208,0,1,1,0,0,1,M10.014,membrane-type matrix metallopeptidase-1
+ENSP00000300954,0,1,0,0,0,0,S08.074,PCSK4 peptidase
+ENSP00000354607,0,1,1,0,1,1,I93.UPW,family I93 unassigned peptidase inhibitors
+ENSP00000323901,0,1,1,0,0,0,I93.UPW,family I93 unassigned peptidase inhibitors
+ENSP00000453855,0,1,1,1,0,0,M12.208,ADAM8 peptidase
+ENSP00000288680,0,1,0,0,0,1,A22.005,impas 2 peptidase
+ENSP00000318585,0,1,1,0,1,1,A01.004,BACE1 g.p. ({Homo sapiens})
+ENSP00000343535,0,1,0,0,0,0,C19.016,ubiquitin-specific peptidase 7
+ENSP00000352324,0,1,0,0,0,0,C86.001,ataxin-3
+ENSP00000480584,0,1,0,0,0,0,C14.004,caspase-7
+ENSP00000265164,0,1,0,0,0,0,C14.005,caspase-6
+ENSP00000297979,0,1,0,0,0,0,M01.028,aminopeptidase O
+ENSP00000311032,0,1,1,0,0,0,C14.003,caspase-3
+ENSP00000497997,0,1,1,0,0,0,C14.026,paracaspase
+ENSP00000351314,0,1,0,0,0,0,T01.014,proteasome subunit beta2i
+ENSP00000314029,0,1,0,0,0,0,C48.003,SENP3 peptidase
+ENSP00000356425,0,1,0,0,0,0,C12.005,ubiquitinyl hydrolase-L5
+ENSP00000311318,0,1,0,0,0,0,C54.005,autophagin-4
+ENSP00000370377,0,1,0,0,0,0,M16.009,eupitrilysin
+ENSP00000371607,0,1,0,0,0,0,M03.006,mitochondrial intermediate peptidase
+ENSP00000245816,0,1,0,0,0,0,S14.003,peptidase Clp (type 3)
+ENSP00000353826,0,1,0,0,0,0,S16.002,PIM1 peptidase
+ENSP00000259407,0,1,0,0,0,0,S09.A50,acyl-coenzyme A amino acid N-acyltransferase 2
+ENSP00000285737,0,1,0,0,0,0,S16.006,psLon peptidase
+ENSP00000012049,0,1,0,0,0,1,M28.016,Mername-AA103 peptidase
+ENSP00000340427,0,1,0,0,0,0,M28.018,Fxna peptidase
+ENSP00000272167,0,1,0,0,0,0,S33.971,epoxide hydrolase
+ENSP00000332979,0,1,0,0,1,1,A01.041,BACE2 g.p. ({Homo sapiens})
+ENSP00000363826,0,1,1,0,0,1,I93.UPW,family I93 unassigned peptidase inhibitors
+ENSP00000368682,0,1,1,0,0,1,M13.091,PHEX peptidase
+ENSP00000269187,0,1,1,0,0,0,X40.001,LIV-1 breast cancer protein
+ENSP00000265417,0,1,1,0,0,0,P02.019,GPR116 ({Homo sapiens})-type G-protein coupled receptor
+ENSP00000352676,0,1,0,0,0,0,C64.004,trabid peptidase
+ENSP00000285679,0,1,0,0,0,0,C19.041,ubiquitin-specific peptidase 25
+ENSP00000334808,0,1,0,0,0,0,C19.021,ubiquitin-specific peptidase 16
+ENSP00000258123,0,1,0,0,0,0,C19.022,ubiquitin-specific peptidase 15
+ENSP00000218348,0,1,0,0,0,0,C19.014,ubiquitin-specific peptidase 11
+ENSP00000402527,0,1,0,0,0,0,C48.004,SENP6 peptidase
+ENSP00000301776,0,1,0,0,0,0,T02.002,isoaspartyl dipeptidase (threonine type)
+ENSP00000305926,0,1,0,0,0,0,C64.002,Cezanne-2 peptidase
+ENSP00000385247,0,1,0,0,0,0,C02.021,calpain-14
+ENSP00000337501,0,1,0,0,0,0,A28.A10,nuclear receptor interacting protein 2
+ENSP00000348395,0,1,0,0,0,0,M17.006,leucyl aminopeptidase-1 ({Caenorhabditis}-type)
+ENSP00000328938,0,1,0,0,0,0,S09.977,kynurenine formamidase
+ENSP00000263256,0,1,0,0,0,0,C97.001,desumoylating isopeptidase 1
+ENSP00000366208,0,1,0,0,0,0,I25.027,cystatin-related epididymal spermatogenic protein
+ENSP00000499089,0,1,0,0,0,0,S09.001,prolyl oligopeptidase
+ENSP00000339208,0,1,0,0,0,0,S09.018,dipeptidyl-peptidase 8
+ENSP00000222800,0,1,0,0,0,0,S33.976,Williams-Beuren syndrome critical region protein 21 epoxide hydrolase
+ENSP00000315152,0,1,0,0,0,0,M24.028,mitochondrial methionyl aminopeptidase
+ENSP00000261893,0,1,0,0,0,0,S12.004,LACT-1 peptidase
+ENSP00000309262,0,1,0,0,0,0,C19.068,ubiquitin-specific peptidase 48
+ENSP00000273359,0,1,0,0,0,0,S09.062,hypothetical protein
+ENSP00000352222,0,1,0,0,0,0,C26.966,CTP synthase 2
+ENSP00000312664,0,1,0,0,0,0,C14.006,caspase-2
+ENSP00000217169,0,1,0,0,0,1,I32.007,BIRC-7 protein
+ENSP00000217169,0,1,0,0,0,1,I32.UPW,family I32 unassigned peptidase inhibitors
+ENSP00000337797,0,1,0,0,0,1,S68.001,PIDD auto-processing protein unit 1
+ENSP00000337797,0,1,0,0,0,1,S68.002,PIDD auto-processing protein unit 2
+ENSP00000300896,0,1,0,0,0,1,C19.044,ubiquitin-specific peptidase 32
+ENSP00000300896,0,1,0,0,0,1,C19.107,ubiquitin-specific peptidase 32
+ENSP00000317842,0,1,0,0,0,0,S09.984,carboxylesterase 2
+ENSP00000356925,0,1,0,0,0,0,I43.UPW,family I43 unassigned peptidase inhibitors
+ENSP00000326598,0,1,0,0,0,0,S01.993,testis-specific protein 50
+ENSP00000309031,0,1,0,0,0,1,C64.006,VCIP135 deubiquitinating peptidase
+ENSP00000264689,0,1,0,0,0,0,C78.002,UfSP2 peptidase
+ENSP00000353249,0,1,0,0,0,0,M14.025,cytosolic carboxypeptidase 5
+ENSP00000215794,0,1,0,0,0,0,C19.030,ubiquitin-specific peptidase 18
+ENSP00000365233,0,1,0,0,0,0,S08.A56,SPAP8A3.12c g.p. ({Schizosaccharomyces pombe})
+ENSP00000323071,0,1,0,0,0,0,S09.943,acyl-CoA thioesterase 4 ({Homo sapiens})
+ENSP00000287078,0,1,0,0,0,0,S01.286,Tysnd1 peptidase
+ENSP00000219473,0,1,0,0,1,0,C19.018,ubiquitin-specific peptidase 10
+ENSP00000260648,0,1,0,0,0,1,S09.015,PREPL A protein
+ENSP00000289865,0,1,1,0,0,0,C19.034,ubiquitin-specific peptidase 21
+ENSP00000375844,0,1,1,0,0,0,C02.018,calpain-10
+ENSP00000370372,0,1,1,0,0,0,M03.002,neurolysin
+ENSP00000216341,0,1,1,0,0,0,S01.010,granzyme B ({Homo sapiens}-type)
+ENSP00000263464,0,1,0,0,0,0,I32.003,BIRC-3 protein
+ENSP00000263464,0,1,0,0,0,0,I32.007,BIRC-7 protein
+ENSP00000263464,0,1,0,0,0,0,I32.UPW,family I32 unassigned peptidase inhibitors
+ENSP00000347858,0,1,0,0,0,0,I32.004,XIAP caspase inhibitor
+ENSP00000347858,0,1,0,0,0,0,I32.007,BIRC-7 protein
+ENSP00000347858,0,1,0,0,0,0,I32.UPW,family I32 unassigned peptidase inhibitors
+ENSP00000269280,0,1,0,0,0,0,S79.002,NLRP1 self-cleaving protein
+ENSP00000386212,0,1,0,0,0,0,T01.016,proteasome subunit beta5t
+ENSP00000330237,0,1,0,0,0,0,C14.010,caspase-9
+ENSP00000229268,0,1,0,1,0,0,C19.001,ubiquitin-specific peptidase 5
+ENSP00000230582,0,1,0,1,1,0,S28.003,thymus-specific serine peptidase
+ENSP00000265560,0,1,1,1,0,0,C19.010,ubiquitin-specific peptidase 4
+ENSP00000250066,0,1,1,1,1,0,C19.009,ubiquitin-specific peptidase 6
+ENSP00000250066,0,1,1,1,1,0,C19.044,ubiquitin-specific peptidase 32
+ENSP00000417132,0,1,0,0,0,0,C12.004,ubiquitinyl hydrolase-BAP1
+ENSP00000321606,0,1,0,0,0,0,M38.974,dihydropyrimidinase related protein-1
+ENSP00000308275,0,1,0,0,0,0,I51.UPW,family I51 unassigned peptidase inhibitors
+ENSP00000296411,0,1,0,0,0,0,M24.017,methionyl aminopeptidase 1 (eukaryote)
+ENSP00000246006,0,1,1,0,0,0,I63.UPW,family I63 unassigned peptidase inhibitors
+ENSP00000363163,0,1,1,0,0,0,S09.987,neuroligin 3
+ENSP00000343674,0,1,1,0,0,0,M12.245,ovastacin
+ENSP00000381758,0,1,0,0,0,0,C02.013,calpain-11
+ENSP00000331376,0,1,0,0,0,0,S33.012,Loc328574-like protein
+ENSP00000350512,0,1,0,0,0,0,M67.002,Csn5 peptidase
+ENSP00000381036,0,1,0,0,0,0,C02.972,androglobin
+ENSP00000388275,0,1,0,0,0,0,M14.026,cytosolic carboxypeptidase 3
+ENSP00000306528,0,1,0,0,0,0,C97.002,desumoylating isopeptidase 2
+ENSP00000271971,0,1,0,0,0,0,C02.006,calpain-9
+ENSP00000295055,0,1,0,0,0,0,C02.020,calpain-13
+ENSP00000377823,0,1,0,0,0,0,S33.986,NDRG4 protein
+ENSP00000342812,0,1,0,0,0,0,C19.028,ubiquitin-specific peptidase 9Y
+ENSP00000384259,0,1,0,0,0,0,C54.003,autophagin-1
+ENSP00000361306,0,1,0,0,0,0,C54.002,autophagin-2
+ENSP00000304467,0,1,0,0,0,0,M03.001,thimet oligopeptidase
+ENSP00000202625,0,1,0,0,0,0,C111.006,protein-glutamine gamma-glutamyltransferase 6
+ENSP00000220420,0,1,0,0,0,0,C111.005,protein-glutamine gamma-glutamyltransferase 5
+ENSP00000219611,0,1,0,0,0,0,C02.031,calpain 15 ({Homo sapiens})
+ENSP00000331636,0,1,0,0,0,0,C02.017,calpain-12
+ENSP00000262960,0,1,0,0,0,0,S09.019,dipeptidyl-peptidase 9
+ENSP00000311224,0,1,0,0,0,0,S09.942,esterase/lipase ({Homo sapiens})
+ENSP00000266736,0,1,0,0,0,0,M38.980,probable imidazolonepropionase
+ENSP00000264220,0,1,0,0,0,0,C44.001,amidophosphoribosyltransferase precursor
+ENSP00000339850,0,1,0,0,0,0,M38.977,dihydropyrimidinase related protein-4
+ENSP00000253778,0,1,0,0,0,0,C44.972,glutamine:fructose-6-phosphate amidotransferase
+ENSP00000156084,0,1,0,0,0,0,C85.001,OTUD5 peptidase ({Homo sapiens})
+ENSP00000360905,0,1,0,0,0,0,M14.027,cytosolic carboxypeptidase 6
+ENSP00000175506,0,1,0,0,0,0,C44.974,asparagine synthetase
+ENSP00000419851,0,1,0,0,0,0,C26.950,guanine 5'-monophosphate synthetase
+ENSP00000370531,0,1,0,0,0,0,S09.944,acyl-coenzyme A thioesterase 6 ({Homo sapiens})
+ENSP00000252813,0,1,0,0,0,0,C15.010,pyroglutamyl-peptidase I (chordate)
+ENSP00000346890,0,1,0,0,0,0,M16.005,nardilysin
+ENSP00000346890,0,1,0,0,0,0,M16.983,nardilysin unit 2
+ENSP00000346890,0,1,0,0,0,0,M16.987,nardilysin unit 3
+ENSP00000361699,0,1,0,0,0,0,C26.A36,ctps g.p. ({Brachydanio rerio})
+ENSP00000379158,0,1,0,0,0,0,I27.001,calpastatin inhibitor unit 1
+ENSP00000379158,0,1,0,0,0,0,I27.003,calpastatin inhibitor unit 3
+ENSP00000216039,0,1,1,0,0,0,C86.004,JosD1 peptidase
+ENSP00000325312,0,1,1,0,0,0,M24.002,methionyl aminopeptidase 2
+ENSP00000376849,0,1,0,0,0,0,C14.008,caspase-5
+ENSP00000316357,0,1,0,0,0,0,C19.017,ubiquitin-specific peptidase 9X
+ENSP00000288699,0,1,0,0,0,0,M38.978,dihydropyrimidinase related protein-5
+ENSP00000339957,0,1,0,0,0,0,C19.055,ubiquitin-specific peptidase 47
+ENSP00000284274,0,1,0,0,0,0,C101.001,OTULIN peptidase
+ENSP00000316032,0,1,0,0,0,0,S59.001,nucleoporin 145
+ENSP00000296257,0,1,0,0,0,0,C48.007,SENP2 peptidase
+ENSP00000394791,0,1,0,0,0,0,C48.002,SENP1 peptidase
+ENSP00000318480,0,1,0,0,0,0,M41.026,YME1L1 g.p. ({Homo sapiens}) and similar
+ENSP00000360270,0,1,0,0,0,0,M48.017,metalloprotease-related protein-1
+ENSP00000269143,0,1,0,0,0,0,M41.007,Afg3-like protein 2
+ENSP00000325421,0,1,0,0,0,0,S54.009,PARL peptidase
+ENSP00000278200,0,1,0,0,0,0,S26.002,mitochondrial inner membrane peptidase 1
+ENSP00000249269,0,1,0,0,0,0,M16.973,ubiquinol-cytochrome c reductase core protein I
+ENSP00000329553,0,1,0,0,0,0,S26.A09,CG11110 protein ({Drosophila melanogaster})
+ENSP00000402608,0,1,0,0,0,0,C26.951,carbamoyl-phosphate synthase ({Homo sapiens}-type)
+ENSP00000257548,0,1,0,0,0,0,C19.060,ubiquitin-specific peptidase 30
+ENSP00000203407,0,1,0,0,0,0,M16.973,ubiquinol-cytochrome c reductase core protein I
+ENSP00000203407,0,1,0,0,0,0,M16.981,ubiquinol-cytochrome c reductase core protein domain 2
+ENSP00000351273,0,1,1,0,0,0,C14.009,caspase-8
+ENSP00000232892,0,1,0,0,0,0,S09.991,arylacetamide deacetylase
+ENSP00000468633,0,1,0,0,0,0,S26.010,signalase (animal) 21 kDa component
+ENSP00000381863,0,1,0,0,0,0,C19.024,ubiquitin-specific peptidase 19
+ENSP00000278836,0,1,0,0,0,0,S74.003,myelin regulatory factor
+ENSP00000322775,0,1,1,0,0,0,S54.953,iRhom2
+ENSP00000361047,0,1,0,0,0,0,C85.005,ALG13 g.p. ({Homo sapiens})
+ENSP00000333329,0,1,0,0,0,0,C19.023,ubiquitin-specific peptidase 17
+ENSP00000333329,0,1,0,0,0,0,C19.A83,USP17L2
+ENSP00000262316,0,1,0,0,0,1,S54.952,iRhom1
+ENSP00000263672,0,1,0,0,0,0,X44.001,25 kDa subunit of mammalian signal peptidase complex
+ENSP00000344779,0,1,0,0,0,0,S54.008,rhomboid-like protein 5
+ENSP00000332488,0,1,0,0,0,0,A22.006,signal peptide peptidase-like protein 2C
+ENSP00000359848,0,1,0,0,0,0,C13.005,glycosylphosphatidylinositol:protein transamidase
+ENSP00000381237,0,1,1,0,0,0,A22.003,impas 1 peptidase
+ENSP00000388566,0,1,0,0,0,0,C14.007,caspase-4
+ENSP00000309163,0,1,1,0,0,0,G05.002,RCE1 peptidase ({Homo sapiens}-type)
+ENSP00000294119,0,1,0,0,0,0,X36.001,Y33K hypothetical protein
+ENSP00000325917,0,1,0,0,0,1,S08.077,PCSK7 peptidase
+ENSP00000368798,0,1,0,0,0,1,M50.001,site 2 peptidase
+ENSP00000006777,0,1,0,0,0,1,S54.955,rhomboid domain containing 2
+ENSP00000344223,0,1,0,0,0,1,S08.063,site-1 peptidase
+ENSP00000302239,0,1,1,0,1,0,C19.011,ubiquitin-specific peptidase 8
+ENSP00000317214,0,1,0,0,0,0,C02.971,calpamodulin
+ENSP00000313811,0,1,0,0,0,0,C19.025,ubiquitin-specific peptidase 20
+ENSP00000257934,0,1,0,0,0,0,C50.002,separase ({Homo sapiens}-type)
+ENSP00000260187,0,1,0,0,0,0,C19.013,ubiquitin-specific peptidase 2
+ENSP00000308928,0,1,1,0,0,0,C67.001,CylD peptidase
+ENSP00000350009,0,1,0,0,0,1,C19.037,ubiquitin-specific peptidase 33
+ENSP00000393596,0,1,0,0,1,0,I32.006,BIRC-6 protein
+ENSP00000355264,0,1,0,0,0,0,S01.530,protein FAM111A
+ENSP00000301633,0,1,0,0,0,0,I32.005,survivin
+ENSP00000350447,0,1,0,0,0,0,I103.001,shugoshin-2 ({Homo sapiens})
+ENSP00000397598,0,1,0,0,0,0,C110.001,kyphoscoliosis peptidase
+ENSP00000363557,0,1,0,0,0,0,I43.UPW,family I43 unassigned peptidase inhibitors
+ENSP00000380349,0,1,1,0,0,0,C02.004,calpain-3
+ENSP00000261509,0,1,0,0,0,0,I43.UPW,family I43 unassigned peptidase inhibitors
+ENSP00000326366,0,1,1,1,0,1,A22.001,presenilin 1
+ENSP00000355747,0,1,1,1,0,1,A22.002,presenilin 2
+ENSP00000286186,0,1,1,0,0,0,C14.011,caspase-10
+ENSP00000312455,0,1,1,0,0,0,C14.971,FLIP protein
+ENSP00000410926,0,1,0,0,0,0,M08.003,leishmanolysin-2
+ENSP00000223051,0,1,1,0,0,0,M28.973,transferrin receptor 2 protein
+ENSP00000315997,0,1,1,0,0,0,I43.UPW,family I43 unassigned peptidase inhibitors
+ENSP00000298251,0,1,0,0,0,0,I43.UPW,family I43 unassigned peptidase inhibitors
+ENSP00000271332,0,1,1,0,0,0,I63.UPW,family I63 unassigned peptidase inhibitors
+ENSP00000271332,0,1,1,0,0,0,P02.006,cadherin EGF LAG seven-pass G-type receptor 2 precursor ({Homo sapiens})
+ENSP00000351497,0,1,1,0,0,0,I43.001,oprin
+ENSP00000005995,0,1,1,0,0,0,S01.011,testisin
+ENSP00000333003,0,1,0,0,0,0,S01.299,PRSS55 g.p. ({Homo sapiens})
+ENSP00000389140,0,1,1,0,0,0,I43.UPW,family I43 unassigned peptidase inhibitors
+ENSP00000287934,0,1,1,0,0,0,I93.UPW,family I93 unassigned peptidase inhibitors
+ENSP00000286201,0,1,1,0,0,0,I93.UPW,family I93 unassigned peptidase inhibitors
+ENSP00000240093,0,1,1,0,0,0,I93.UPW,family I93 unassigned peptidase inhibitors
+ENSP00000345785,0,1,1,0,0,0,I93.UPW,family I93 unassigned peptidase inhibitors
+ENSP00000227758,0,1,1,0,0,0,I32.002,BIRC-2 protein
+ENSP00000227758,0,1,1,0,0,0,I32.003,BIRC-3 protein
+ENSP00000227758,0,1,1,0,0,0,I32.007,BIRC-7 protein
+ENSP00000258080,0,1,1,0,0,0,S01.278,HtrA2 peptidase
+ENSP00000309968,0,1,1,0,0,0,M12.217,ADAM17 peptidase
+ENSP00000244289,0,1,1,0,0,0,S09.993,hormone-sensitive lipase
+ENSP00000446057,0,1,0,0,0,0,C48.011,SENP8 peptidase
+ENSP00000262738,0,0,1,0,0,0,I63.UPW,family I63 unassigned peptidase inhibitors
+ENSP00000335004,0,0,1,0,0,0,G04.001,Tiki1 peptidase
+ENSP00000275857,0,0,1,0,0,0,S09.988,"neuroligin 4, X-linked"
+ENSP00000352177,0,0,1,0,0,0,M12.981,ADAM29 protein
+ENSP00000318684,0,0,1,0,0,0,I43.UPW,family I43 unassigned peptidase inhibitors
+ENSP00000234798,0,0,1,0,0,0,S01.028,tryptase gamma 1
+ENSP00000361554,0,0,1,0,0,0,I63.UPW,family I63 unassigned peptidase inhibitors
+ENSP00000342215,0,0,1,0,0,0,I43.UPW,family I43 unassigned peptidase inhibitors
+ENSP00000339634,0,0,1,0,0,0,I43.UPW,family I43 unassigned peptidase inhibitors
+ENSP00000375608,0,0,1,0,0,0,I43.UPW,family I43 unassigned peptidase inhibitors
+ENSP00000325525,0,0,1,0,0,0,I43.UPW,family I43 unassigned peptidase inhibitors
+ENSP00000311291,0,0,1,0,0,0,I01.UPW,family I1 unassigned peptidase inhibitors
+ENSP00000250360,0,0,1,0,0,0,I43.UPW,family I43 unassigned peptidase inhibitors
+ENSP00000323328,0,0,1,0,0,0,I43.UPW,family I43 unassigned peptidase inhibitors
+ENSP00000302051,0,0,1,0,0,0,M13.007,endothelin-converting enzyme-like 1 endopeptidase
+ENSP00000219551,0,0,1,0,0,0,S54.005,rhomboid-like protein 1
+ENSP00000219271,0,0,1,0,0,0,M10.015,membrane-type matrix metallopeptidase-2
+ENSP00000265708,0,0,1,0,0,0,M12.950,ADAM2 protein
+ENSP00000313046,0,0,1,0,0,0,P02.041,adhesion G protein-coupled receptor B1
+ENSP00000200557,0,0,1,0,0,0,M12.976,ADAM11 protein
+ENSP00000396163,0,0,1,0,0,0,I63.002,bothrojaracin
+ENSP00000359778,0,0,1,0,0,0,I63.UPW,family I63 unassigned peptidase inhibitors
+ENSP00000359778,0,0,1,0,0,0,P02.013,ETL protein
+ENSP00000357167,0,0,1,0,0,0,I43.UPW,family I43 unassigned peptidase inhibitors
+ENSP00000362762,0,0,1,0,0,0,P02.029,brain-specific angiogenesis inhibitor 2
+ENSP00000360299,0,0,1,0,0,0,P02.022,GPR110 G-protein coupled receptor
+ENSP00000360299,0,0,1,0,0,0,P02.026,KPG_009 protein
+ENSP00000359686,0,0,1,0,0,0,P02.014,G protein-coupled receptor 112
+ENSP00000273352,0,0,1,0,0,0,P02.020,GPR128 ({Homo sapiens})-type G-protein coupled receptor
+ENSP00000175238,0,0,1,0,0,0,M12.956,ADAM7 protein
+ENSP00000261654,0,0,1,0,0,0,P02.021,GPR133 ({Homo sapiens})-type protein
+ENSP00000342981,0,0,1,0,0,0,P02.016,Gpr114 protein
+ENSP00000398236,0,0,1,0,0,0,S01.072,matriptase-3
+ENSP00000334962,0,0,1,0,0,0,S01.308,matriptase-2
+ENSP00000364013,0,0,1,0,0,0,I01.969,tomoregulin
+ENSP00000364013,0,0,1,0,0,0,I01.974,DKFZP761G1118 protein
+ENSP00000364013,0,0,1,0,0,0,I01.978,Tmeff2 protein
+ENSP00000347409,0,0,1,0,0,0,M13.090,Kell blood-group peptidase
+ENSP00000283303,0,0,1,0,0,0,P02.042,adhesion G protein-coupled receptor F4
+ENSP00000369135,0,0,1,0,0,0,I01.UPW,family I1 unassigned peptidase inhibitors
+ENSP00000260126,0,0,1,0,0,0,I01.972,organic anion transporter polypeptide-related
+ENSP00000217159,0,0,1,0,0,0,I01.972,organic anion transporter polypeptide-related
+ENSP00000320634,0,0,1,0,0,0,I01.UPW,family I1 unassigned peptidase inhibitors
+ENSP00000266509,0,0,1,0,0,0,I01.UPW,family I1 unassigned peptidase inhibitors
+ENSP00000251372,0,0,1,0,0,0,I43.UPW,family I43 unassigned peptidase inhibitors
+ENSP00000356581,0,0,1,0,0,0,P02.017,GPR126 vascular inducible G protein-coupled receptor
+ENSP00000347451,0,0,1,0,0,0,I43.UPW,family I43 unassigned peptidase inhibitors
+ENSP00000332900,0,0,1,0,0,0,P02.023,GPR97 protein
+ENSP00000289248,0,0,1,0,0,0,S54.002,rhomboid-like protein 2
+ENSP00000256389,0,0,1,0,0,0,M12.218,ADAM20 peptidase
+ENSP00000264748,0,0,1,0,0,0,I43.UPW,family I43 unassigned peptidase inhibitors
+ENSP00000322270,0,0,1,0,0,0,P02.009,latrophilin 2
+ENSP00000358407,0,0,1,0,0,0,M12.232,ADAM30 peptidase
+ENSP00000307831,0,0,1,0,0,0,P02.028,GPR113 protein
+ENSP00000391898,0,0,1,0,0,0,I43.UPW,family I43 unassigned peptidase inhibitors
+ENSP00000006724,0,0,1,0,0,0,I43.UPW,family I43 unassigned peptidase inhibitors
+ENSP00000367202,0,0,1,0,0,0,I01.037,RECK protein inhibitor unit 1
+ENSP00000382178,0,0,1,0,0,0,I43.UPW,family I43 unassigned peptidase inhibitors
+ENSP00000354691,0,0,1,0,0,0,I43.UPW,family I43 unassigned peptidase inhibitors
+ENSP00000374125,0,0,1,0,0,0,I43.UPW,family I43 unassigned peptidase inhibitors
+ENSP00000351484,0,0,1,0,0,0,M28.011,NAALADASE L peptidase
+ENSP00000311545,0,0,1,0,0,0,I63.UPW,family I63 unassigned peptidase inhibitors
+ENSP00000358470,0,0,1,0,0,0,I43.UPW,family I43 unassigned peptidase inhibitors
+ENSP00000203629,0,0,1,0,0,0,I43.UPW,family I43 unassigned peptidase inhibitors
+ENSP00000334952,0,0,1,0,0,0,P02.018,GPR125 ({Homo sapiens})-type protein
+ENSP00000278765,0,0,1,0,0,0,T03.006,gamma-glutamyltransferase 1 (mammalian-type)
+ENSP00000278765,0,0,1,0,0,0,T03.016,gamma-glutamyltransferase-like protein 4
+ENSP00000381340,0,0,1,0,0,0,T03.002,gamma-glutamyltransferase 5 (mammalian-type)
+ENSP00000338964,0,0,1,0,0,0,T03.017,gamma-glutamyltransferase-like protein 3
+ENSP00000299882,0,0,1,0,0,0,S01.313,spinesin
+ENSP00000365725,0,0,1,0,0,0,S09.939,lysophosphatidylserine lipase ABHD12
+ENSP00000305288,0,0,1,0,0,0,S09.995,neuroligin 2
+ENSP00000342535,0,0,1,0,0,0,S09.989,"neuroligin 4, Y-linked"
+ENSP00000354541,0,0,1,0,0,0,S09.994,neuroligin 1
+ENSP00000319883,0,0,1,0,0,0,P02.001,EGF-like module containing mucin-like hormone receptor-like 2
+ENSP00000418070,0,0,1,0,0,0,I43.UPW,family I43 unassigned peptidase inhibitors
+ENSP00000340688,0,0,1,0,0,0,P02.010,latrophilin-1
